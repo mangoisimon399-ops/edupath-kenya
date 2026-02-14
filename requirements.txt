@@ -1,6 +1,6 @@
 streamlit
 intasend-python
 python-dotenv
-Fix: rename dotenv to python-dotenv
+
 
 
